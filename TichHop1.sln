@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TichHop1", "TichHop1\TichHop1.csproj", "{81A82D20-0B7B-4E1A-A176-36C697040B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{284BE870-6FEC-47A5-B332-CED156BF3B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A82D20-0B7B-4E1A-A176-36C697040B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A82D20-0B7B-4E1A-A176-36C697040B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A82D20-0B7B-4E1A-A176-36C697040B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A82D20-0B7B-4E1A-A176-36C697040B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284BE870-6FEC-47A5-B332-CED156BF3B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284BE870-6FEC-47A5-B332-CED156BF3B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284BE870-6FEC-47A5-B332-CED156BF3B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284BE870-6FEC-47A5-B332-CED156BF3B20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

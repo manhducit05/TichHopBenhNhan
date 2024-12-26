@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{284BE870-6FEC-47A5-B332-CED156BF3B20}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\manhduc\\desktop\\tichhop1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284BE870-6FEC-47A5-B332-CED156BF3B20}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284BE870-6FEC-47A5-B332-CED156BF3B20}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ManhDuc\\Desktop\\TichHop1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{284BE870-6FEC-47A5-B332-CED156BF3B20}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A82D20-0B7B-4E1A-A176-36C697040B00}|TichHop1\\TichHop1.csproj|C:\\Users\\ManhDuc\\Desktop\\TichHop1\\tichhop1\\controllers\\benhnhancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A82D20-0B7B-4E1A-A176-36C697040B00}|TichHop1\\TichHop1.csproj|solutionrelative:tichhop1\\controllers\\benhnhancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284BE870-6FEC-47A5-B332-CED156BF3B20}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ManhDuc\\Desktop\\TichHop1\\windowsformsapp1\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284BE870-6FEC-47A5-B332-CED156BF3B20}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A82D20-0B7B-4E1A-A176-36C697040B00}|TichHop1\\TichHop1.csproj|C:\\Users\\ManhDuc\\Desktop\\TichHop1\\tichhop1\\models\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A82D20-0B7B-4E1A-A176-36C697040B00}|TichHop1\\TichHop1.csproj|solutionrelative:tichhop1\\models\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A82D20-0B7B-4E1A-A176-36C697040B00}|TichHop1\\TichHop1.csproj|C:\\Users\\ManhDuc\\Desktop\\TichHop1\\tichhop1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{81A82D20-0B7B-4E1A-A176-36C697040B00}|TichHop1\\TichHop1.csproj|solutionrelative:tichhop1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:44:12.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BenhNhan.cs",
+              "DocumentMoniker": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\WindowsFormsApp1\\BenhNhan.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BenhNhan.cs",
+              "ToolTip": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\WindowsFormsApp1\\BenhNhan.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\BenhNhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:45:10.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:39:37.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BenhNhan.cs",
+              "DocumentMoniker": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\TichHop1\\Models\\BenhNhan.cs",
+              "RelativeDocumentMoniker": "TichHop1\\Models\\BenhNhan.cs",
+              "ToolTip": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\TichHop1\\Models\\BenhNhan.cs",
+              "RelativeToolTip": "TichHop1\\Models\\BenhNhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:37:36.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\TichHop1\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "TichHop1\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\TichHop1\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "TichHop1\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-26T01:35:01.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BenhNhanController.cs",
+              "DocumentMoniker": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\TichHop1\\Controllers\\BenhNhanController.cs",
+              "RelativeDocumentMoniker": "TichHop1\\Controllers\\BenhNhanController.cs",
+              "ToolTip": "C:\\Users\\ManhDuc\\Desktop\\TichHop1\\TichHop1\\Controllers\\BenhNhanController.cs",
+              "RelativeToolTip": "TichHop1\\Controllers\\BenhNhanController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:31:10.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
